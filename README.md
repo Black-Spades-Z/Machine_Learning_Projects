@@ -1,2 +1,2 @@
 # Machine_Learning_Projects
-Machine Learning Projects in order to get know basic Machine Learning Concepts and try them in practice.
+Machine learning projects in order to get acquainted with the basic concepts of machine learning and try them out in practice.
